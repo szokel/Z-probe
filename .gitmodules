@@ -1,0 +1,9 @@
+[submodule "task/probe1"]
+	path = task/probe1
+	url = ./task/probe1/
+[submodule "EF/Associative-Table-ProductSchema-Color-Scaffold"]
+	path = EF/Associative-Table-ProductSchema-Color-Scaffold
+	url = ./EF/Associative-Table-ProductSchema-Color-Scaffold/
+[submodule "EF/Associative-Table-ProductSchema-Color-Migration"]
+	path = EF/Associative-Table-ProductSchema-Color-Migration
+	url = ./EF/Associative-Table-ProductSchema-Color-Migration/

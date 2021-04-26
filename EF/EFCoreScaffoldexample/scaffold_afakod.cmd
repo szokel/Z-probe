@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Data Source=.\DEV2019;Initial Catalog=StoreWeb@data;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Model --use-database-names --context "Store_afakodDbContext" -t afakod
